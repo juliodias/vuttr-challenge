@@ -1,0 +1,6 @@
+{
+  "title": "Notion",
+  "link": "https://github.com/typicode/hotel",
+  "description": "Local app manager. Start apps within your browser, developer tool with local .localhost domain and https out of the box.",
+  "tags":["organizing", "webapps", "domain", "https", "proxy"]
+}
